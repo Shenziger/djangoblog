@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+qrenv/
+db.sqlite3
+.DS_Store/
+myvirtualenv/
+projectname/
+django/
